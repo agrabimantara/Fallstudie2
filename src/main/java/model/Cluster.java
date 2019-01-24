@@ -1,13 +1,16 @@
 package model;
 
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import java.awt.*;
+import java.util.List;
+
 @Getter @Setter
+@NoArgsConstructor
 public class Cluster
 {
-	private int x_average;
-	private int y_average;
-	private long[] x_points;
-	private long[] y_points;
+	private Point average;
+	private List<Point> pointList;
 }
