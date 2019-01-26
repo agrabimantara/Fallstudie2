@@ -1,0 +1,17 @@
+AUTHOR :
+
+BIMANTARA, AGRA             3710033
+PIRI, SHENNA R.W            3737748
+
+-----------------------------------------------------------------------------------------------------------------------
+
+1. Extract
+2. open folder in Intellij
+3. Run the Program from Main.java
+
+OR
+
+1. Extract
+2. Navigate to folder ./Fallstudie2/target
+3. run the command:
+            java -jar Fallstudie2-1.0-SNAPSHOT-jar-with-dependencies
